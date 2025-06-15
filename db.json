@@ -27,6 +27,13 @@
       "email": "ivan@mail.ru",
       "password": "ivan",
       "role": "client"
+    },
+    {
+      "id": "c101",
+      "name": "Администратор",
+      "email": "admin@mail.ru",
+      "password": "admin@mail.ru",
+      "role": "admin"
     }
   ],
   "contracts": [
